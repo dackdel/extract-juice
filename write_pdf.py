@@ -63,7 +63,7 @@ if __name__ == '__main__':
     convert_pdf2txt('PDFs/', 'textPDF/')
     
     #Your Pathfolder
-    pathfolder = '/home/dackdel/Downloads/PDF-Summarizer-main/textPDF'
+    pathfolder = './textPDF'
     
     #Get a list of all text files in the specified folder
     files = glob.glob(f'{pathfolder}/*.txt')
