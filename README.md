@@ -1,6 +1,7 @@
 # Extract PDF | GPT-3 Python Scipt
 
 Step-by-step:
+
 0. Converts the PDF file into a .txt file
 1. Slice the words into chunks of text
 2. Summarize the chunks
